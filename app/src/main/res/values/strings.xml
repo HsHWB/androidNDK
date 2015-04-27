@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <string name="app_name">hellojni</string>
+=======
+    <string name="app_name">My Application</string>
+>>>>>>> d7b58ad4f6d0703bd086d83ed6d5ed41ed8a4344
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 

@@ -5,7 +5,11 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.example.hellojni"
+=======
+        applicationId "com.example.root.myapplication"
+>>>>>>> d7b58ad4f6d0703bd086d83ed6d5ed41ed8a4344
         minSdkVersion 15
         targetSdkVersion 21
         versionCode 1
@@ -17,11 +21,14 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+<<<<<<< HEAD
     sourceSets {
         main {
             jniLibs.srcDirs = ['libs']
         }
     }
+=======
+>>>>>>> d7b58ad4f6d0703bd086d83ed6d5ed41ed8a4344
 }
 
 dependencies {
